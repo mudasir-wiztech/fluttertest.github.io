@@ -1,0 +1,28 @@
+{
+  "introduction": [
+    {
+      "title": "Onboarding",
+      "image":
+          "https://t4.ftcdn.net/jpg/03/02/74/89/360_F_302748918_Vs76DTDodjhhkYuCEFahu0LcoDZkBuaW.jpg",
+      "content":
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit adipiscing sit enim enim id iaculis tristique. ",
+      "button_title": "Next"
+    },
+    {
+      "title": "Onboarding",
+      "image":
+          "https://t4.ftcdn.net/jpg/03/02/74/89/360_F_302748918_Vs76DTDodjhhkYuCEFahu0LcoDZkBuaW.jpg",
+      "content":
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit adipiscing sit enim enim id iaculis tristique. ",
+      "button_title": "Next"
+    },
+    {
+      "title": "Onboarding",
+      "image":
+          "https://t4.ftcdn.net/jpg/03/02/74/89/360_F_302748918_Vs76DTDodjhhkYuCEFahu0LcoDZkBuaW.jpg",
+      "content":
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit adipiscing sit enim enim id iaculis tristique. ",
+      "button_title": "lets Go"
+    }
+  ]
+}
